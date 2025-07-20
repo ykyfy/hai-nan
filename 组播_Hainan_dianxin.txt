@@ -1,24 +1,24 @@
 Hainan_dianxin-组播,#genre#
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",海南公共
-http://112.66.100.183:8888/rtp/239.253.64.14:5140
+http://112.66.100.159:8888/rtp/239.253.64.14:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",海南少儿
-http://112.66.100.183:8888/rtp/239.253.64.124:5140
+http://112.66.100.159:8888/rtp/239.253.64.124:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",海南文旅
-http://112.66.100.183:8888/rtp/239.253.64.122:5140
+http://112.66.100.159:8888/rtp/239.253.64.122:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",海南新闻
-http://112.66.100.183:8888/rtp/239.253.64.121:5140
+http://112.66.100.159:8888/rtp/239.253.64.121:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",海南自贸
-http://112.66.100.183:8888/rtp/239.253.64.119:5140
+http://112.66.100.159:8888/rtp/239.253.64.119:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",海南公共
-http://112.66.103.134:8888/rtp/239.253.64.14:5140
+http://112.66.102.249:8888/rtp/239.253.64.14:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",海南少儿
-http://112.66.103.134:8888/rtp/239.253.64.124:5140
+http://112.66.102.249:8888/rtp/239.253.64.124:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",海南文旅
-http://112.66.103.134:8888/rtp/239.253.64.122:5140
+http://112.66.102.249:8888/rtp/239.253.64.122:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",海南新闻
-http://112.66.103.134:8888/rtp/239.253.64.121:5140
+http://112.66.102.249:8888/rtp/239.253.64.121:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",海南自贸
-http://112.66.103.134:8888/rtp/239.253.64.119:5140
+http://112.66.102.249:8888/rtp/239.253.64.119:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",海南公共
 http://112.66.89.157:8188/rtp/239.253.64.14:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",海南少儿
@@ -40,25 +40,25 @@ http://112.66.95.140:8188/rtp/239.253.64.121:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",海南自贸
 http://112.66.95.140:8188/rtp/239.253.64.119:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",海南公共
-http://112.67.36.233:8686/rtp/239.253.64.14:5140
+http://112.67.46.63:8686/rtp/239.253.64.14:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",海南少儿
-http://112.67.36.233:8686/rtp/239.253.64.124:5140
+http://112.67.46.63:8686/rtp/239.253.64.124:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",海南文旅
-http://112.67.36.233:8686/rtp/239.253.64.122:5140
+http://112.67.46.63:8686/rtp/239.253.64.122:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",海南新闻
-http://112.67.36.233:8686/rtp/239.253.64.121:5140
+http://112.67.46.63:8686/rtp/239.253.64.121:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",海南自贸
-http://112.67.36.233:8686/rtp/239.253.64.119:5140
+http://112.67.46.63:8686/rtp/239.253.64.119:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",海南公共
-http://119.41.17.42:4022/rtp/239.253.64.14:5140
+http://119.41.17.60:4022/rtp/239.253.64.14:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",海南少儿
-http://119.41.17.42:4022/rtp/239.253.64.124:5140
+http://119.41.17.60:4022/rtp/239.253.64.124:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",海南文旅
-http://119.41.17.42:4022/rtp/239.253.64.122:5140
+http://119.41.17.60:4022/rtp/239.253.64.122:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",海南新闻
-http://119.41.17.42:4022/rtp/239.253.64.121:5140
+http://119.41.17.60:4022/rtp/239.253.64.121:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",海南自贸
-http://119.41.17.42:4022/rtp/239.253.64.119:5140
+http://119.41.17.60:4022/rtp/239.253.64.119:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",海南公共
 http://119.41.39.50:4000/rtp/239.253.64.14:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",海南少儿
@@ -139,13 +139,3 @@ http://36.101.4.147:8886/rtp/239.253.64.122:5140
 http://36.101.4.147:8886/rtp/239.253.64.121:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",海南自贸
 http://36.101.4.147:8886/rtp/239.253.64.119:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",海南公共
-http://59.50.150.35:3333/rtp/239.253.64.14:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",海南少儿
-http://59.50.150.35:3333/rtp/239.253.64.124:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",海南文旅
-http://59.50.150.35:3333/rtp/239.253.64.122:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",海南新闻
-http://59.50.150.35:3333/rtp/239.253.64.121:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",海南自贸
-http://59.50.150.35:3333/rtp/239.253.64.119:5140
